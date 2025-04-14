@@ -8,7 +8,7 @@ const app = express();
 const PORT = 5000;
 
 // Middleware
-app.use(cors({ origin: ["https://book-exchange-red.vercel.app/"], credentials: true }));
+app.use(cors({ origin: ["https://book-exchange-red.vercel.app"], credentials: true }));
 app.use(bodyParser.json());
 
 app.use("/api", authRoute);
