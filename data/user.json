@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1744407415105,
+    "name": "Aditi",
+    "mobile": "1234567890",
+    "email": "aditi@example.com",
+    "password": "Aditi@123",
+    "role": "Owner"
+  },
+  {
+    "id": 1744573655118,
+    "name": "Pratham Bindal",
+    "mobile": "09650747045",
+    "email": "bindalpratham931@gmail.com",
+    "password": "12345678",
+    "role": "owner"
+  }
+]

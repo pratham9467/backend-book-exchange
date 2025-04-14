@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1744487636295,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "location": "Delhi",
+    "contact": "9876543210",
+    "ownerEmail": "aditi@example.com",
+    "bookURL": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/u/b/n/atomic-habits-original-imah5p5tcfuq6txh.jpeg?q=20&crop=false",
+    "status": "available"
+  },
+  {
+    "id": 1744487881102,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "location": "Mumbai",
+    "contact": "9123456780",
+    "ownerEmail": "owner2@example.com",
+    "bookURL": "https://i.etsystatic.com/25126483/r/il/54baed/3174106483/il_570xN.3174106483_7kdp.jpg",
+    "status": "available"
+  },
+  {
+    "id": 1744488153055,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "location": "Bangalore",
+    "contact": "9000000000",
+    "ownerEmail": "bindalpratham931@gmail.com",
+    "bookURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdL_CjiGykzGsoU3JMhUN9r8AGAUeUE5Miw&s",
+    "status": "available"
+  },
+  {
+    "id": 1744488153060,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "location": "Chennai",
+    "contact": "9345678901",
+    "ownerEmail": "bindalpratham931@gmail.com",
+    "bookURL": "https://m.media-amazon.com/images/I/71g2ednj0JL.jpg",
+    "status": "available"
+  },
+  {
+    "id": 1744488335209,
+    "title": "Ikigai",
+    "author": "Francesc Miralles",
+    "genre": "Philosophy",
+    "location": "Pune",
+    "contact": "9823000000",
+    "ownerEmail": "bindalpratham931@gmail.com",
+    "bookURL": "https://images.meesho.com/images/products/319943166/svqdt_512.webp",
+    "status": "available"
+  },
+  {
+    "id": 1744488461957,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "location": "Chennai",
+    "contact": "9811111111",
+    "ownerEmail": "owner5@example.com",
+    "bookURL": "https://www.ynharari.com/wp-content/uploads/2017/01/sapiens.png",
+    "status": "available"
+  },
+  {
+    "id": 1744488797120,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-help",
+    "location": "Hyderabad",
+    "contact": "9898989898",
+    "ownerEmail": "owner8@example.com",
+    "bookURL": "https://markmanson.net/wp-content/themes/mm-main/images/books-subtle-art.png",
+    "status": "available"
+  },
+  {
+    "id": 1744580639901,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "",
+    "location": "Delhi",
+    "contact": "09650747045",
+    "ownerEmail": "bindalpratham931@gmail.com",
+    "bookURL": "https://www.openrightslibrary.com/wp-content/uploads/2017/06/pride-and-prejudice-ebook.jpg",
+    "status": "available"
+  },
+  {
+    "id": 1744580929699,
+    "title": "The Hobbit, or, There and Back Again",
+    "author": "J.R.R. Tolkien",
+    "genre": "",
+    "location": "Delhi",
+    "contact": "09650747045",
+    "ownerEmail": "bindalpratham931@gmail.com",
+    "bookURL": "https://m.media-amazon.com/images/I/712cDO7d73L._SL1500_.jpg",
+    "status": "available"
+  }
+]
